@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d187b8c-0a51-4956-bddf-9fe87d7eefe8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_program3.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1496">
+              <caret line="116" column="63" selection-start-line="116" selection-start-column="63" selection-end-line="116" selection-end-column="63" />
+              <folding>
+                <element signature="e#1462#1482#0" expanded="true" />
+                <element signature="e#2283#2301#0" expanded="true" />
+                <element signature="e#3064#3081#0" expanded="true" />
+                <element signature="e#3358#3375#0" expanded="true" />
+                <element signature="e#3781#3801#0" expanded="true" />
+                <element signature="e#4455#4472#0" expanded="true" />
+                <element signature="e#4750#4770#0" expanded="true" />
+                <element signature="e#5424#5441#0" expanded="true" />
+                <element signature="e#5717#5734#0" expanded="true" />
+                <element signature="e#6142#6162#0" expanded="true" />
+                <element signature="e#6816#6833#0" expanded="true" />
+                <element signature="e#7111#7131#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_program1.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="59" column="55" selection-start-line="59" selection-start-column="55" selection-end-line="59" selection-end-column="55" />
+              <folding>
+                <element signature="e#1396#1416#0" expanded="true" />
+                <element signature="e#2187#2205#0" expanded="true" />
+                <element signature="e#2890#2907#0" expanded="true" />
+                <element signature="e#3149#3166#0" expanded="true" />
+                <element signature="e#3523#3543#0" expanded="true" />
+                <element signature="e#4113#4130#0" expanded="true" />
+                <element signature="e#4371#4388#0" expanded="true" />
+                <element signature="e#4747#4767#0" expanded="true" />
+                <element signature="e#5337#5354#0" expanded="true" />
+                <element signature="e#5598#5618#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_program4.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#1462#1482#0" expanded="true" />
+                <element signature="e#2283#2301#0" expanded="true" />
+                <element signature="e#3064#3081#0" expanded="true" />
+                <element signature="e#3358#3375#0" expanded="true" />
+                <element signature="e#3781#3801#0" expanded="true" />
+                <element signature="e#4455#4472#0" expanded="true" />
+                <element signature="e#4750#4770#0" expanded="true" />
+                <element signature="e#5424#5441#0" expanded="true" />
+                <element signature="e#5717#5734#0" expanded="true" />
+                <element signature="e#6142#6162#0" expanded="true" />
+                <element signature="e#6816#6833#0" expanded="true" />
+                <element signature="e#7109#7126#0"
